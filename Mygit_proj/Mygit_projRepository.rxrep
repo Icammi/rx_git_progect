@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Mygit_projRepository"
+id="2bc15d10-563c-4291-87fd-984cf1e9aa09"
+rxversion="8.3">
+  <codegen
+  classname="Mygit_projRepository"
+  namespace="Mygit_proj"/>
+  <rootfolder
+  name="Root"
+  id="4b199fea-c876-43cd-9253-05de3e283635"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
